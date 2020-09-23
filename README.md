@@ -1,5 +1,8 @@
-# 1. Introduction
+# Introduction
 In thie page, Computer vision paper list by read me
-# 2. Object Detection 
+# Object Detection 
 - [Object Detection in 20 Years: A Survey](https://arxiv.org/abs/1905.05055)  
-# 3. Image/Videio Segemntation  
+# Image/Video Segmentation  
+# Etc...  
+- [Learning Sparse Networks Using Targeted Dropout](https://arxiv.org/abs/1905.13678)  
+- [https://arxiv.org/abs/1810.12890](https://arxiv.org/abs/1810.12890)  
