@@ -5,4 +5,4 @@ In thie page, Computer vision paper list by read me
 # Image/Video Segmentation  
 # Etc...  
 - [Learning Sparse Networks Using Targeted Dropout](https://arxiv.org/abs/1905.13678)  
-- [https://arxiv.org/abs/1810.12890](https://arxiv.org/abs/1810.12890)  
+- [DropBlock: A regularization method for convolutional networks](https://arxiv.org/abs/1810.12890)  
