@@ -6,3 +6,4 @@ In thie page, Computer vision paper list by read me
 # Etc...  
 - [Learning Sparse Networks Using Targeted Dropout](https://arxiv.org/abs/1905.13678)  
 - [DropBlock: A regularization method for convolutional networks](https://arxiv.org/abs/1810.12890)  
+- [DropFilter : Dropout for Convolutions](https://arxiv.org/abs/1810.09849)  
