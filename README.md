@@ -1,12 +1,12 @@
 # Depth & Point Clouds
 ## Depth Estimation
 | Paper | Date | Link | 
-| --- | --- | --- | --- | 
+|----|----|----|
 | Monocular Depth Estimation Based On Deep Learning: An Overview | [2020] | [Link](https://arxiv.org/abs/2003.06620) | 
 ## Points Clouds
 # Object Detection 
 | Paper | Date | Link | 
-| --- | --- | --- | --- | 
+|----|----|----|
 | Object Detection in 20 Years: A Survey | 2019 | [Link]https://arxiv.org/abs/1905.05055 |   
 | Rich feature hierarchies for accurate object detection and semantic segmentation | 2013 | [Link](https://arxiv.org/abs/1311.2524) | 
 | Fast R-CNN | 2015 | [Link](https://arxiv.org/abs/1504.08083) | 
