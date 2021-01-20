@@ -2,11 +2,9 @@
 ## Depth Estimation
 | Paper | Date | Link | 
 |:----|:----:|:----:|
-| Monocular Depth Estimation Based On Deep Learning: An Overview | [2020] | [Link](https://arxiv.org/abs/2003.06620) | 
+| Monocular Depth Estimation Based On Deep Learning: An Overview | 2020 | [Link](https://arxiv.org/abs/2003.06620) | 
 ## Points Clouds  
   
-
-***
 # Object Detection 
 | Paper | Date | Link | 
 |:----|:----:|:----:|
@@ -18,6 +16,4 @@
 | Feature Pyramid Networks for Object Detection | 2016 | [Link](https://arxiv.org/abs/1612.03144) | 
 | EfficientDet: Scalable and Efficient Object Detection | 2019 | [Link](https://arxiv.org/abs/1911.09070) | 
   
-
-***
 # Image & Video Segmentations
