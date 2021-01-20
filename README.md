@@ -15,3 +15,8 @@
 | Feature Pyramid Networks for Object Detection | 2016 | [Link](https://arxiv.org/abs/1612.03144) | 
 | EfficientDet: Scalable and Efficient Object Detection | 2019 | [Link](https://arxiv.org/abs/1911.09070) | 
 # Image & Video Segmentations
+
+| 항목 | 가격 | 개수 |
+|:----|:----:|----:|
+| 라면 | 800원 | 10개 |
+| 과자 | 900원 | 20개 |
