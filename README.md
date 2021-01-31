@@ -1,2 +1,2 @@
 # Visual & Multiview Represenation
-# Localization & Mappling
+# Localization & Mapping
